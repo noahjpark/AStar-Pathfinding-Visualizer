@@ -16,8 +16,8 @@
 * Yellow: Represents the shortest path found - Drawn after the algorithm finishes
 * Black: Represents a barrier that the algorithm cannot go through
 * Gray: Represents the gridlines so each cell is visible
-* Purple: Represnts the ending cell/node
-* Blue: Rperesnts the starting cell/node
+* Purple: Represents the ending cell/node
+* Blue: Represents the starting cell/node
 
 *Other Notes:*
 * The first *left* click will place the starting node (*blue*)
