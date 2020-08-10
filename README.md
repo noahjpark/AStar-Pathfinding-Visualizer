@@ -1,4 +1,4 @@
-# AStar-Pathfinding-Visualizer
+# A* Pathfinding Visualizer
 
 *Run Instructions:*
 * Execute astar.py
